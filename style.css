@@ -1,0 +1,19 @@
+* {
+    background-color: gray;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.recipes {
+    font-size: 24px;
+}
+
+.data {
+    font-size: 16px;
+    text-align: left;
+}
+
+.prominent {
+    text-align: center;
+    color:turquoise;
+}
